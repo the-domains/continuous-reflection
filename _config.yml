@@ -1,0 +1,14 @@
+layout_spectrum: 0.6194723576772958
+typography_spectrum: 0.14486901788040996
+color:
+  brandStrength: 0.1214228521566838
+  lightness: 0.1376176190096885
+  saturation: 0.02919772733002901
+  rhythmicContrast: 0.33470915956422687
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: continuous reflection
